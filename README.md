@@ -1,4 +1,4 @@
-## Olá eu sou o Alex Borges, atualmente professor de ensino técnico/médio de informática e futuro desenvolvedor front-end!
+## Olá eu sou o Alex Borges, atualmente professor de ensino técnico/médio de informática e futuro desenvolvedor!
 <div align="center">
   <a href="https://github.com/alexborgessjc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexborgessjc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
